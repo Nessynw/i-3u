@@ -5,9 +5,10 @@ const canvas = document.getElementById('bg');
 const ctx = canvas.getContext('2d');
 
 const auroraColors = [
-  '#ff80b0', '#ff6ec7', '#c084fc', '#818cf8',
-  '#67e8f9', '#34d399', '#a78bfa', '#f472b6',
-  '#e879f9', '#38bdf8'
+    '#6d6d6d', 
+    '#ffc371', 
+    '#cacbcb', 
+    '#9581b6',
 ];
 
 function resizeCanvas() {
